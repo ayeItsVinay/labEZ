@@ -1,0 +1,12 @@
+.tray {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+  height: 100px;
+  background-color: white
+    /* For cells of equal size */
+}
+.tray-button {
+  display: table-cell;
+  text-align: center;
+}
